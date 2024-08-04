@@ -1,1 +1,1 @@
-Nous avons implémenter le prototype Java pour les deux scénarios principales de TimeLog avec le logiciel Eclipse qui permet de montrer le idEmployé, le idProjet, leurs discipline, dates et heures de début de l'activité, date et heures de fin de l'activité et la durée.
+Nous avons implémenter le prototype Java pour les deux scénarios principales de TimeLog avec le logiciel Eclipse qui permet de montrer le idEmployé, le idProjet, leurs disciplines, les dates et heures de début de l'activité, les dates et heures de fin de l'activité et la durée.
